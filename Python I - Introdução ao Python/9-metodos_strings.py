@@ -25,7 +25,7 @@ print(gameDescription.count('a'))
 print(f"{gameDescription.count('A')}\n")  
 
 print("Altera elementos")
-print(f"{gameDescription.replace("joguinho", "Jogão")}\n") 
+print(f"{gameDescription.replace("joguinho", "Jogão")}\n")
 
 print("quebra a string (no exemplo na virgula)")
 print(gameDescription.split(','))
